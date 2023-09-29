@@ -1,8 +1,7 @@
 @Library('jhc') _
 pipeline {
     agent any
-
-    stages {
+stages {
       
         stage('Git Checkout') {
              when{
