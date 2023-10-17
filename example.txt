@@ -1,0 +1,2 @@
+this to pull a specific file form remote branch
+eg: git checkout --branch path to thefile
