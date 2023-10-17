@@ -1,0 +1,2 @@
+to pull a specific file form from remote to local
+eg : git checkout --branchname filename
